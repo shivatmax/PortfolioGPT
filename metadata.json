@@ -1,0 +1,27 @@
+{
+  "name": "ShivGPT - AI Portfolio",
+  "short_name": "ShivGPT",
+  "description": "Interactive AI portfolio of Shiv Awasthi featuring ShivGPT chatbot. Full-Stack LLM Engineer, Cybersecurity Specialist & Founder of QuickCareer.ai.",
+  "author": "Shiv Awasthi",
+  "keywords": [
+    "LLM Engineer",
+    "AI Portfolio",
+    "Generative AI",
+    "RAG",
+    "Cybersecurity",
+    "QuickCareer.ai",
+    "ShivGPT",
+    "ChatGPT",
+    "Gemini",
+    "Shivawasthi"
+  ],
+  "social": {
+    "twitter": "https://x.com/Shivawasthi007",
+    "linkedin": "https://linkedin.com/in/shivawasthi",
+    "github": "https://github.com/shivatmax",
+    "website": "https://shivawasthi.me"
+  },
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
