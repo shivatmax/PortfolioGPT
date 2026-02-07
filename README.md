@@ -16,8 +16,8 @@
 <br />
 
 <div align="center">
-  <video src="public/Readme_stuff/AI%20Portfolio.mp4" controls="controls" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></video>
-  <p><em>(If video doesn't play, <a href="public/Readme_stuff/AI%20Portfolio.mp4">download it here</a> or <a href="https://www.youtube.com/watch?v=oO0W5nTQ1Ro">watch on YouTube</a>)</em></p>
+  <video src="https://github.com/user-attachments/assets/60d9a9a7-f068-48e6-8f27-0dda4713ee23" controls="controls" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></video>
+  <p><em>(If video doesn't play, <a href="https://github.com/user-attachments/assets/60d9a9a7-f068-48e6-8f27-0dda4713ee23">download it here</a> or <a href="https://www.youtube.com/watch?v=oO0W5nTQ1Ro">watch on YouTube</a>)</em></p>
 </div>
 
 ---
@@ -174,3 +174,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <br />
   <sub>Built with ❤️ by <a href="https://github.com/shivatmax">Shiv Awasthi</a></sub>
 </div>
+****
