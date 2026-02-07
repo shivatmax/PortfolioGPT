@@ -17,7 +17,7 @@
 
 <div align="center">
   <video src="public/Readme_stuff/AI%20Portfolio.mp4" controls="controls" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></video>
-  <p><em>(If video doesn't play, <a href="public/Readme_stuff/AI%20Portfolio.mp4">download it here</a>)</em></p>
+  <p><em>(If video doesn't play, <a href="public/Readme_stuff/AI%20Portfolio.mp4">download it here</a> or <a href="https://www.youtube.com/watch?v=oO0W5nTQ1Ro">watch on YouTube</a>)</em></p>
 </div>
 
 ---
